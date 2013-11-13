@@ -33,8 +33,8 @@ breadcrumb:
     link_group_list: Gruppen
 
 filter:
-    label_username: Username
-    label_locked: Locked
+    label_username: Benutzername
+    label_locked: Gesperrt
     label_email: Email
-    label_groups: Groups
+    label_groups: Gruppen
     label_name: Name
